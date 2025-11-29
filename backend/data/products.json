@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Paracetamol 500mg",
+    "price": 15000,
+    "description": "Thuốc giảm đau, hạ sốt dùng trong các trường hợp cảm cúm, nhức đầu, đau cơ, đau răng mức độ nhẹ đến vừa. Không dùng quá liều và không dùng cho người dị ứng với paracetamol.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "public_id": "OIP_zbf4wj",
+        "url": "https://res.cloudinary.com/dpnodzrun/image/upload/v1764409031/OIP_zbf4wj.webp"
+      }
+    ],
+    "category": "Thuốc giảm đau - hạ sốt",
+    "seller": "Nhà thuốc 22CNTTC",
+    "stock": 200,
+    "numOfReviews": 0,
+    "reviews": []
+  },
+  {
+    "name": "Vitamin C 500mg viên nén",
+    "price": 28000,
+    "description": "Vitamin C giúp tăng cường sức đề kháng, hỗ trợ phòng ngừa cảm cúm, giúp vết thương mau lành. Không nên dùng kéo dài liều cao nếu không có chỉ định của bác sĩ.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "VitaminC500mg",
+        "url": "https://res.cloudinary.com/dpnodzrun/image/upload/v1764409232/VitaminC500mg.webp"
+      }
+    ],
+    "category": "Vitamin & Khoáng chất",
+    "seller": "Nhà thuốc 22CNTTC",
+    "stock": 300,
+    "numOfReviews": 0,
+    "reviews": []
+  },
+  {
+    "name": "Omeprazole 20mg (thuốc dạ dày)",
+    "price": 45000,
+    "description": "Thuốc ức chế bơm proton, dùng trong điều trị viêm loét dạ dày - tá tràng, trào ngược dạ dày - thực quản. Nên uống trước ăn 30 phút, dùng theo chỉ định bác sĩ.",
+    "ratings": 4.3,
+    "images": [
+      {
+        "public_id": "daday",
+        "url": "https://res.cloudinary.com/dpnodzrun/image/upload/v1764409368/daday.jpg"
+      }
+    ],
+    "category": "Thuốc dạ dày - tiêu hóa",
+    "seller": "Nhà thuốc 22CNTTC",
+    "stock": 120,
+    "numOfReviews": 0,
+    "reviews": []
+  },
+  {
+    "name": "Thuốc ho siro thảo dược",
+    "price": 32000,
+    "description": "Siro ho thảo dược giúp giảm ho, giảm đau rát họng, hỗ trợ làm dịu đường hô hấp. Phù hợp với ho khan, ho do cảm lạnh. Đọc kỹ hướng dẫn sử dụng trước khi dùng.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "public_id": "siro",
+        "url": "https://res.cloudinary.com/dpnodzrun/image/upload/v1764409447/siro.jpg"
+      }
+    ],
+    "category": "Thuốc ho - cảm cúm",
+    "seller": "Nhà thuốc 22CNTTC",
+    "stock": 95,
+    "numOfReviews": 0,
+    "reviews": []
+  },
+  {
+    "name": "Kháng sinh Amoxicillin 500mg",
+    "price": 38000,
+    "description": "Kháng sinh nhóm beta-lactam, dùng trong các nhiễm khuẩn đường hô hấp, tai mũi họng, tiết niệu,... Chỉ dùng khi có chỉ định của bác sĩ, không tự ý ngưng hay tăng liều.",
+    "ratings": 4.2,
+    "images": [
+      {
+        "public_id": "khangsinh",
+        "url": "https://res.cloudinary.com/dpnodzrun/image/upload/v1764409498/khangsinh.webp"
+      }
+    ],
+    "category": "Thuốc ho - cảm cúm",
+    "seller": "Nhà thuốc 22CNTTC",
+    "stock": 160,
+    "numOfReviews": 0,
+    "reviews": []
+  },
+  {
+    "name": "Canxi + Vitamin D3 viên uống",
+    "price": 89000,
+    "description": "Thực phẩm bổ sung canxi và vitamin D3, hỗ trợ xương chắc khỏe, giảm nguy cơ loãng xương ở người lớn tuổi, phụ nữ sau sinh, trẻ em đang phát triển.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "public_id": "vitamind3",
+        "url": "https://res.cloudinary.com/dpnodzrun/image/upload/v1764409552/vitamind3.jpg"
+      }
+    ],
+    "category": "Thực phẩm chức năng",
+    "seller": "Nhà thuốc 22CNTTC",
+    "stock": 70,
+    "numOfReviews": 0,
+    "reviews": []
+  },
+  {
+    "name": "Thuốc nhỏ mắt Natri Clorid 0.9%",
+    "price": 12000,
+    "description": "Dung dịch nhỏ mắt, dùng để rửa mắt, làm sạch và giữ ẩm bề mặt nhãn cầu. Không dùng chung lọ cho nhiều người, không dùng nếu dung dịch đổi màu hoặc có cặn.",
+    "ratings": 4.4,
+    "images": [
+      {
+        "public_id": "thuocnhomat",
+        "url": "https://res.cloudinary.com/dpnodzrun/image/upload/v1764409577/thuocnhomat.webp"
+      }
+    ],
+    "category": "Dụng cụ y tế",
+    "seller": "Nhà thuốc 22CNTTC",
+    "stock": 210,
+    "numOfReviews": 0,
+    "reviews": []
+  },
+  {
+    "name": "Kem bôi da trị hăm tã cho bé",
+    "price": 65000,
+    "description": "Kem bôi da dành cho trẻ sơ sinh và trẻ nhỏ, giúp giảm hăm tã, mẩn đỏ, ngứa rát vùng da mặc tã. Không bôi lên vết thương hở, tránh dây vào mắt.",
+    "ratings": 4.9,
+    "images": [
+      {
+        "public_id": "kemboi",
+        "url": "https://res.cloudinary.com/dpnodzrun/image/upload/v1764409628/kemboi.jpg"
+      }
+    ],
+    "category": "Chăm sóc cá nhân",
+    "seller": "Nhà thuốc 22CNTTC",
+    "stock": 80,
+    "numOfReviews": 0,
+    "reviews": []
+  },
+  {
+    "name": "Khẩu trang y tế 4 lớp (hộp 50 cái)",
+    "price": 45000,
+    "description": "Khẩu trang y tế 4 lớp, lọc bụi, vi khuẩn, giọt bắn. Dùng một lần, không tái sử dụng. Bảo quản nơi khô ráo, thoáng mát.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "public_id": "khautrang",
+        "url": "https://res.cloudinary.com/dpnodzrun/image/upload/v1764409675/khautrang.jpg"
+      }
+    ],
+    "category": "Dụng cụ y tế",
+    "seller": "Nhà thuốc 22CNTTC",
+    "stock": 500,
+    "numOfReviews": 0,
+    "reviews": []
+  }
+]
